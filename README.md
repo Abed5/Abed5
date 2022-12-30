@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abed5
 - 👀 I’m interested in python and flask.
 - 🌱 I’m currently learning flask.
-- 💞️ I’m looking to collaborate on building a web app for automating google calendar(autoschedule repository).
+- 💞️ I’m looking to collaborate on building a web app for automating google calendar.
 - 📫 How to reach me kirui.abed@gmail.com or Whatsapp +254742615719
 
 <!---

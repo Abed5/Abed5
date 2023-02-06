@@ -1,4 +1,4 @@
-<img align="right" width="350" height="350" src="https://user-images.githubusercontent.com/33075176/217048159-1bc6fd54-2550-41f2-9e0e-e38bbfb94471.jpg">
+<img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/33075176/217048159-1bc6fd54-2550-41f2-9e0e-e38bbfb94471.jpg">
 Hi, I'm Abed!
 
 

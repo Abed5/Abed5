@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Abed5
-- 👀 I’m interested in python and flask.
-- 🌱 I’m currently learning flask.
-- 💞️ I’m looking to collaborate on building a web app for automating google calendar.
-- 📫 How to reach me kirui.abed@gmail.com or Whatsapp +254742615719
+Hi, I'm Abed!
+
+
+I've just started my journey in web development but I am eager to continue growing, taking on new challenges and expanding my horizon even further. Finding innovative solutions to complex problems brings me a lot of joy. That is why you will often find me tinkering with new technologies and collaborating with like-minded individuals on exciting projects. 
+
+Let's connect and create something great together!
 
 <!---
 Abed5/Abed5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

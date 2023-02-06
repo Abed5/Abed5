@@ -1,5 +1,5 @@
 <img align="right" width="200" height="200" src="https://user-images.githubusercontent.com/33075176/217048159-1bc6fd54-2550-41f2-9e0e-e38bbfb94471.jpg">
-Hi, I'm Abed!
+Hi, I'm Abednego!
 
 
 I've just started my journey in web development but I am eager to continue growing, taking on new challenges and expanding my horizon even further. Finding innovative solutions to complex problems brings me a lot of joy. That is why you will often find me tinkering with new technologies and collaborating with like-minded individuals on exciting projects. 

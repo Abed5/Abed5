@@ -2,9 +2,7 @@
 Hi, I'm Abednego!
 
 
-I've just started my journey in web development but I am eager to continue growing, taking on new challenges and expanding my horizon even further. Finding innovative solutions to complex problems brings me a lot of joy. That is why you will often find me tinkering with new technologies and collaborating with like-minded individuals on exciting projects. 
-
-Let's connect and create something great together!
+I am just starting out on my journey in web development, but I am enthusiastic about continuing to grow and embrace new challenges. I find great satisfaction in finding creative solutions to intricate problems and I enjoy experimenting with innovative technologies. I am always looking to collaborate with others who share my passion and work on exciting projects. Let's connect and build something amazing together!
 
 
 <!---
